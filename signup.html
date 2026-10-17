@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vendor Signup</title>
+  <meta name="description" content="Interest form for Desert Bloom Market vendors.">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="logo" href="index.html">Desert Bloom Market</a>
+    <nav aria-label="Main navigation">
+      <a href="index.html">Home</a>
+      <a href="vendors.html">Vendors</a>
+      <a href="visit.html">Visit</a>
+      <a href="signup.html">Vendor signup</a>
+    </nav>
+  </header>
+
+  <main class="page">
+    <h1>Vendor interest form</h1>
+    <p>Tell us what you would like to bring to a future market.</p>
+
+    <form>
+      <label>Business or project name
+        <input type="text" name="business">
+      </label>
+      <label>Email
+        <input type="email" name="email">
+      </label>
+      <label>Vendor type
+        <select name="type">
+          <option>Produce</option>
+          <option>Prepared food</option>
+          <option>Repair</option>
+          <option>Creative goods</option>
+        </select>
+      </label>
+      <label>Tell us what you need
+        <textarea name="needs"></textarea>
+      </label>
+      <button type="submit">Submit interest</button>
+    </form>
+  </main>
+
+  <footer>
+    <p>Desert Bloom Market · Demo site for GIT 414/515 production-readiness audit</p>
+  </footer>
+</body>
+</html>

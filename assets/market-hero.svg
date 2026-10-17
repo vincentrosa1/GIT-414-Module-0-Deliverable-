@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-labelledby="title desc">
+  <title id="title">Outdoor market illustration</title>
+  <desc id="desc">A stylized market booth with plants, produce baskets, and repair tools.</desc>
+  <rect width="720" height="480" fill="#fff3d5"/>
+  <rect x="92" y="128" width="536" height="250" rx="18" fill="#fffdf7" stroke="#2f5d50" stroke-width="8"/>
+  <path d="M120 128h480l-42-70H162z" fill="#c65f3d"/>
+  <path d="M150 128l38-70h44l-25 70zM284 128l10-70h48l-4 70zM422 128l-12-70h48l31 70z" fill="#d6e05d" opacity=".9"/>
+  <circle cx="210" cy="254" r="42" fill="#d6e05d"/>
+  <circle cx="278" cy="254" r="42" fill="#c65f3d"/>
+  <rect x="370" y="220" width="140" height="90" rx="10" fill="#2f5d50"/>
+  <path d="M396 250h88M396 278h66" stroke="#fffdf7" stroke-width="14" stroke-linecap="round"/>
+  <rect x="160" y="340" width="400" height="20" rx="10" fill="#9c927f"/>
+</svg>
